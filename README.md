@@ -1,4 +1,4 @@
-# -
+# Personalized-Trip-Route-Planner
 Help the customers to plan their route based on the places of their interest.
 
 The input is totally a decision made by customer. They choose the places they are insterested in.
